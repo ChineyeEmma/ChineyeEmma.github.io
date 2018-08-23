@@ -447,7 +447,3 @@ footer {
     padding: 0.4in;
     font-size: 12pt;
     color: #444; } }
-
-section:nth-of-type(2) {
-    background: url('https://unsplash.it/1910/1221?image=626') no-repeat center / cover;
-}
